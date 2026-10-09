@@ -1,0 +1,10 @@
+# Encrypted AWS credential created by Set-S3UploadCredential.ps1 (machine/user specific)
+config/s3-credential.xml
+*.clixml
+
+# Per-machine config overrides
+config/*.local.psd1
+
+# Logs
+logs/
+*.log
